@@ -1,6 +1,6 @@
 ### in brief about the mini project
 
-This mini project i used both of useState and UsEffect Hooks to know what is the next Day ?
+This mini project i used both of useState and UseEffect Hooks to know what is the next Day ?
 
 # Getting Started with Create React App
 
