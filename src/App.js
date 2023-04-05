@@ -1,5 +1,5 @@
 import React from 'react'
-import CustomHook from './advanced-components/CustomHook'
+import CustomHook from './Components/CustomHook'
 
 export default function App() {
   return (
